@@ -1,6 +1,6 @@
 streamlit
 Pillow
-anthropic
+google-generativeai
 streamlit-drawable-canvas
 requests
 numpy

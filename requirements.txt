@@ -1,6 +1,6 @@
 streamlit
 Pillow
-google-generativeai
+groq
 streamlit-drawable-canvas
 requests
 numpy
